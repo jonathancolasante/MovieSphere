@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/final-movie-app/static/css/main.23efdb62.css",
-    "main.js": "/final-movie-app/static/js/main.fcbe55d6.js",
-    "static/js/787.7c42db31.chunk.js": "/final-movie-app/static/js/787.7c42db31.chunk.js",
-    "static/media/bg2.jpeg": "/final-movie-app/static/media/bg2.12aaef1fa73db3a53e16.jpeg",
-    "static/media/MovieSphere-2.png": "/final-movie-app/static/media/MovieSphere-2.6b207d9589432ce5ef90.png",
-    "static/media/revicons.eot": "/final-movie-app/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/final-movie-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/final-movie-app/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/final-movie-app/index.html",
-    "main.23efdb62.css.map": "/final-movie-app/static/css/main.23efdb62.css.map",
-    "main.fcbe55d6.js.map": "/final-movie-app/static/js/main.fcbe55d6.js.map",
-    "787.7c42db31.chunk.js.map": "/final-movie-app/static/js/787.7c42db31.chunk.js.map"
+    "main.css": "/MovieSphere/static/css/main.97af2c60.css",
+    "main.js": "/MovieSphere/static/js/main.29867ff1.js",
+    "static/js/787.7c42db31.chunk.js": "/MovieSphere/static/js/787.7c42db31.chunk.js",
+    "static/media/bg2.jpeg": "/MovieSphere/static/media/bg2.12aaef1fa73db3a53e16.jpeg",
+    "static/media/MovieSphere-2.png": "/MovieSphere/static/media/MovieSphere-2.6b207d9589432ce5ef90.png",
+    "static/media/revicons.eot": "/MovieSphere/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/MovieSphere/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/MovieSphere/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/MovieSphere/index.html",
+    "main.97af2c60.css.map": "/MovieSphere/static/css/main.97af2c60.css.map",
+    "main.29867ff1.js.map": "/MovieSphere/static/js/main.29867ff1.js.map",
+    "787.7c42db31.chunk.js.map": "/MovieSphere/static/js/787.7c42db31.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.23efdb62.css",
-    "static/js/main.fcbe55d6.js"
+    "static/css/main.97af2c60.css",
+    "static/js/main.29867ff1.js"
   ]
 }
